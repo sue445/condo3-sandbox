@@ -5,13 +5,13 @@
   "events": [
     {
       "title": "[test2] event2",
-      "url": "https://sue445.github.io/condo3-sandbox/data/test2.json",
+      "url": "https://sue445.github.io/condo3-sandbox/data/test2.json?2",
       "address": "東京都",
       "updated_at": "2019-08-14T16:40:00+09:00"
     },
     {
       "title": "[test2] event1",
-      "url": "https://sue445.github.io/condo3-sandbox/data/test2.json",
+      "url": "https://sue445.github.io/condo3-sandbox/data/test2.json?1",
       "address": "東京都",
       "updated_at": "2019-08-14T16:00:00+09:00"
     }
